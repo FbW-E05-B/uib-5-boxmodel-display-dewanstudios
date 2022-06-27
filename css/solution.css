@@ -1,0 +1,14 @@
+.fixme1 img {
+    display: block;
+}
+.fixme2 div {
+    display: inline;
+}
+.fixme3 li {
+    display: inline;
+    
+}
+.fixme3 {
+    padding: 10px;
+    float: left;
+}
